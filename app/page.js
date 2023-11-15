@@ -1,6 +1,11 @@
+import TicketCard from "./(components)/TicketCard";
 
 export default function Home() {
   return (
-    <h1>HELLO</h1>
+    <div>
+      <TicketCard />
+      <TicketCard />
+      <TicketCard />
+    </div>
   )
 }
