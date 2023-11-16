@@ -8,7 +8,7 @@ config.autoAddCss = false;
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Create Next App',
+  title: 'Ticket App',
   description: "By Michael",
 }
 
